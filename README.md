@@ -6,5 +6,5 @@
 [简历项目1](resume_project1_DPO_Recom.ipynb) 主要记录DPO微调Qwen3-8B的推荐系统项目（&#x274c;<font color='red'>pending</font>）<br>
 [简历项目2](resume_project2_Qlora_AWQ_Taobao.ipynb) 主要记录QLoRA微调+AWQ量化LLaMA3.1-8B处理淘宝客服数据（&#x274c;<font color='red'>pending</font>）<br>
 [简历项目3](resume_project3_Ollama_RAG_DragonBall.ipynb) 主要记录本地基于Ollama+vLLM部署轻量级RAG系统（&#x274c;<font color='red'>pending</font>）<br>
-[简历技能](resume_skill.ipynb) 主要记录简历中提到的熟悉的机器学习模型、深度学习模型（LR、CNN、RNN、Transformer）（&#x274c;<font color='red'>pending</font>）<br>
+[简历技能](resume_skill.ipynb) 主要记录简历中提到的机器、深度学习模型（LR、CNN、RNN、Transformer）（&#x274c;<font color='red'>pending</font>）<br>
 <br><br>
